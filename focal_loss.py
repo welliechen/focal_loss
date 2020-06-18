@@ -1,6 +1,6 @@
 #coding=utf-8
 """
-@Author: chenhongliang
+@Author: welliechen
 @Date:   2020-05-21
 @Desc:
     Tensorflow实现何凯明的Focal Loss, 该损失函数主要用于解决分类问题中的类别不平衡
